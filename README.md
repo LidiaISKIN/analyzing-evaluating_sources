@@ -14,5 +14,5 @@ The data set DF_may.csv, DF_june.csv contain the following fields:
 
 the datasets were anonymized: the sources and messages were assigned IDs in a random order, while preserving the number of messages from the source and quantitative charac-teristics from the source’s audience.
 
-Data source social network vk.com (Russian)
+Data source social network vk.com (Russian).
 The datasets are also hosted by: https://www.kaggle.com/lidiaiskin/sources-of-information-in-social-network-vk-2021
